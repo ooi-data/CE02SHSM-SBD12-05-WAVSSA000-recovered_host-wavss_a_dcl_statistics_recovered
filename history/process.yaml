@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-SBD12-05-WAVSSA000-recovered_host-wavss_a_dcl_statistics_recovered
 data_stream: CE02SHSM-SBD12-05-WAVSSA000-recovered_host-wavss_a_dcl_statistics_recovered
 end_date: '2021-09-16T20:23:02.808Z'
-last_updated: '2022-02-09T08:49:30.408050Z'
+last_updated: '2022-02-09T08:55:46.295977'
 start_date: '2015-04-02T21:22:58.607Z'
-status: pending
+status: success
